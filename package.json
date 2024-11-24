@@ -1,0 +1,15 @@
+{
+  "name": "learning_yarn",
+  "version": "1.0.0",
+  "description": "Sample yarn project",
+  "main": "index.js",
+  "author": "tyler <tander1001@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.1",
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "gulp": "^5.0.0"
+  }
+}
